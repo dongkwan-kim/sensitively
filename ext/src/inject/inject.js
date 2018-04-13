@@ -52,11 +52,12 @@ chrome.extension.sendMessage({}, function(response) {
 		modal.classList = 'modal';
 		modal.innerHTML =
 		'<div class="modal-content">'+
-			'<h4>다음 표현을 신고하시겠습니까?</h4>'+
-			'<p class="expr"></p>'+
+			'<h4 class="modal-title">다음 표현을 신고하시겠습니까?</h4>'+
+			'<p class="expr red-text modal-expr"></p>'+
 		'</div>'+
 		'<div class="modal-footer">'+
-			'<a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>'+
+			'<a href="#!" class="modal-action modal-close btn waves-effect waves-green grey ">취소</a>'+
+			'<a href="#!" class="modal-action modal-close btn waves-effect waves-green green ">신고</a>'+
 		'</div>';
 		body.appendChild(modal);
 		var inst = modal_init({});

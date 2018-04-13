@@ -8,5 +8,15 @@
      right: 15px;
  }
 
+.modal-title {
+    font-size: 1.3rem!important;
+    margin-bottom: 10px;
+}
 
- 
+.modal-expr {
+    font-size: 1.7rem!important;
+}
+
+.modal-close {
+    margin-right: 10px!important;
+}
