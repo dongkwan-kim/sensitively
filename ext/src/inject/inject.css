@@ -1,0 +1,12 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+ .btn-fixed {
+     z-index: 3400!important;
+     position: fixed!important;
+     bottom: 15px;
+     right: 15px;
+ }
+
+
+ 
