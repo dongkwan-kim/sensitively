@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Make sensitive media ecosystem w/ reader reports",
-  "homepage_url": "https://github.com/todoaskit/editorslab-2018",
+  "homepage_url": "https://github.com/dongkwan-kim/editorslab-2018",
   "icons": {
     "128": "icons/icon128.png"
   },
