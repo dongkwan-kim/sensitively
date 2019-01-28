@@ -30,4 +30,4 @@
 - Not only for minorities but also whole readers.
 - We can build the news community which does not exclude minorities.
 
-## [Presentation](https://github.com/todoaskit/sensitively/blob/master/assets/presentation/sensitively.pdf)
+## [Presentation](https://github.com/dongkwan-kim/sensitively/blob/master/assets/presentation/sensitively.pdf)
